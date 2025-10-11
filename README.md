@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-[![Site ao vivo](https://img.shields.io/badge/Site%20ao%20vivo-💻-orange?style=for-the-badge)](https://euericmelo.github.io/Links/)
+[![Site ao vivo](https://img.shields.io/badge/Site%20ao%20vivo-💻-orange?style=for-the-badge)](https://euericmelo.github.io/LinkTree/)
 
 Projeto desenvolvido como uma **página de links pessoal**, inspirada no **Linktree**, com o objetivo de **centralizar todos os meus links e redes sociais em um único lugar**.  
 O foco principal foi criar um **layout simples, responsivo e direto**, garantindo que qualquer pessoa possa acessar facilmente meus contatos e projetos.
@@ -29,7 +29,7 @@ O foco principal foi criar um **layout simples, responsivo e direto**, garantind
 
 ## 🖼️ Demonstração
 
-[💻 Acesse a Página de Links](https://euericmelo.github.io/Links/)
+[💻 Acesse a Página de Links](https://euericmelo.github.io/LinkTree/)
 
 ⚠️ **Desenvolvido inteiramente em um dispositivo móvel.**  
 Por esse motivo, o design foi planejado para **funcionar perfeitamente em telas pequenas**, oferecendo uma **experiência fluida e responsiva**.  
