@@ -19,11 +19,8 @@
     padding: 20px;
     background: black;
     height: 100vh;
-    
 
 }
-.header{
-    padding-top:30px ;
 
 .logo {
     width: 100px;
@@ -32,6 +29,7 @@
     margin-bottom: 20px;
     object-fit: cover;
     border:2px solid #747B85;
+     padding-top:20px;
 }
 
 h1 {
